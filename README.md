@@ -1,4 +1,4 @@
-# SublimeText 2 URLHandler on Linux (Ubuntu based)
+# SublimeText URLHandler on Linux (Ubuntu based)
 
 Enables SublimeText to open URL Scheme subl:// and txmt:// like these:
 
@@ -8,8 +8,9 @@ Enables SublimeText to open URL Scheme subl:// and txmt:// like these:
 
 Download [latest release](https://github.com/algorich/sublime-url-handler/archive/master.zip).
 
-Unzip it, then `cd` and run:
+Unzip it, then:
 
+    cd sublime-url-handler-master
     bash install
 
 ## Test it
