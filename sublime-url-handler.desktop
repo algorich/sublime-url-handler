@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Sublime Text 2 URL Handler
+Name=Sublime Text 3 URL Handler
 Comment=Handle URL Scheme subl:// and txmt://
-Icon=sublime_text
+Icon=sublime-text
 NoDisplay=true
 Categories=TextEditor;Utility;
 Exec=sublime-url-handler %u
