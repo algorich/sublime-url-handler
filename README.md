@@ -1,18 +1,18 @@
-# SublimeText URLHandler on Linux (Ubuntu based)
+# SublimeText URL Handler on Linux (Ubuntu based)
 
 Enables SublimeText to open URL Scheme subl:// and txmt:// like these:
 
-    subl://open/?url=file:///etc/passwd&line=10&column=2
+`subl://open/?url=file:///etc/passwd&line=10&column=2`
 
 ## Installation
 
 Download [latest release](https://github.com/algorich/sublime-url-handler/archive/master.zip).
 
 Unzip it, then:
-
-    cd sublime-url-handler-master
-    bash install
-
+``` bash
+cd sublime-url-handler-master
+bash install
+```
 ## Test it
 
 Open a new tab on your browser and type: subl://open/?url=file:///etc/hosts

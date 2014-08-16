@@ -13,4 +13,4 @@ request=${request/&line=/:}
 request=${request/&column=/:}
 
 # Launch Sublime
-subl  $request
+subl $request
