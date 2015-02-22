@@ -3,5 +3,5 @@
 sudo cp sublime-url-handler.desktop /usr/share/applications
 sudo update-desktop-database
 
-sudo cp sublime-url-handler /usr/bin/
+sudo cp sublime-url-handler /usr/local/bin/
 sudo chmod +x /usr/bin/sublime-url-handler
